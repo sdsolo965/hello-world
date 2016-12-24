@@ -1,2 +1,2 @@
-# hello-world
-Just another repository.
+Hello, my name is Shane.  I'm just learning to program.
+
